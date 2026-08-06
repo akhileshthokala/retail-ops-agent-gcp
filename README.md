@@ -44,7 +44,6 @@ The core test/eval/demo path runs fully local with the Python standard library. 
 
 - Expanded the eval suite from 4 scenarios to 42 scenarios across six retail use cases.
 - Added optional live BigQuery and Vertex AI / Gemini configuration paths while keeping the zero-dependency local demo as the default.
-- Added claim-mapping documentation so the repo directly supports the resume bullet.
 - Added a native GCP validation plan for the next pass.
 
 ## Architecture
